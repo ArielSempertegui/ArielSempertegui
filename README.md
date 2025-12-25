@@ -1,4 +1,11 @@
-## Hi there 👋
+### 👋 Ariel's GitHub Profile 👋
+
+Hey there, my name is Ariel Sempértegui and I'm an enthusiastic programming student 💻.
+
+- 👀 I'm interested in software engineering, running 🏃‍♂️ and learning new web development technologies 👨‍💻.
+- 🌱 I'm currently learning how to implement cloud solutions with AWS service and both backend and frontend frameworks.
+- 🤔 I'm interested in teamwork and looking for people to do great things. 💬 Ask me any question that comes to mind.
+- 📫 How to reach me: arielsempertegu11@gmail.com
 
 <!--
 **ArielSempertegui/ArielSempertegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
